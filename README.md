@@ -11,3 +11,9 @@ Some Features:
 ```
   Khanishsuresh/Expense-tracker-backend
 ```
+
+
+### Run :
+```
+  npm run dev
+```
