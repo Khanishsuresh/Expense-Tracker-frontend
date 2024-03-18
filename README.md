@@ -9,7 +9,7 @@ Some Features:
 
 ### The Backend repo :
 ```
-  Khanishsuresh/Expense-tracker-backend
+  Khanishsuresh/Expense-Tracker-backend
 ```
 
 
